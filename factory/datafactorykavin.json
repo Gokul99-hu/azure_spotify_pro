@@ -1,0 +1,9 @@
+{
+	"name": "datafactorykavin",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "717bd8ae-36bf-4bcf-a768-a99ad4816e8b",
+		"tenantId": "6e804f24-0209-4dcd-ac89-97525eddbd30"
+	}
+}
